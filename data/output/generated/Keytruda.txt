@@ -1,0 +1,49 @@
+Dear [Variable HCP Name],
+
+I would like to share an article, **Clinical Insights on the Use of Keytruda (Pembrolizumab) in Advanced Melanoma and Other Cancers**, by Dr. Jane Doe, et al., Oncology Journal, October 2023.
+
+The article discusses the rationale, study design, and safety findings from various clinical trials involving Keytruda (pembrolizumab), an immune checkpoint inhibitor used in the treatment of multiple types of cancer, including advanced melanoma, non-small cell lung cancer (NSCLC), and others. It summarizes safety results and provides treatment guidance to manage common adverse events associated with Keytruda based on clinical experience.
+
+## SELECTED SAFETY INFORMATION
+Keytruda (pembrolizumab) is a programmed death receptor-1 (PD-1) blocking antibody indicated for the treatment of patients with unresectable or metastatic melanoma, NSCLC, and several other types of cancer. It is essential to monitor patients for immune-mediated adverse reactions, which can be severe or fatal.
+
+### WARNINGS AND PRECAUTIONS
+**Immune-Mediated Adverse Reactions:** Keytruda can cause immune-mediated adverse reactions, including pneumonitis, colitis, hepatitis, endocrinopathies, and nephritis. These reactions may occur during treatment or after discontinuation. Early identification and management are crucial. Withhold or discontinue Keytruda based on the severity of the reaction and administer corticosteroids if appropriate.
+
+**Infusion-Related Reactions:** Severe infusion-related reactions, including hypersensitivity and anaphylaxis, have been reported. Monitor patients during the infusion and manage reactions according to severity.
+
+**Complications of Allogeneic HSCT:** Fatal and other serious complications can occur in patients who receive allogeneic hematopoietic stem cell transplantation (HSCT) before or after being treated with Keytruda. Monitor for and manage these complications.
+
+**Embryo-Fetal Toxicity:** Keytruda can cause fetal harm when administered to a pregnant woman. Advise females of reproductive potential to use effective contraception during treatment and for 4 months after the last dose.
+
+## INDICATION AND USAGE
+Keytruda (pembrolizumab) is indicated for the treatment of patients with:
+- Unresectable or metastatic melanoma
+- Metastatic NSCLC
+- Classical Hodgkin lymphoma (cHL)
+- Primary mediastinal large B-cell lymphoma (PMBCL)
+- Urothelial carcinoma
+- Microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) cancer
+- Hepatocellular carcinoma (HCC)
+- Merkel cell carcinoma (MCC)
+- Renal cell carcinoma (RCC)
+- Endometrial carcinoma
+
+## IMPORTANT SAFETY INFORMATION
+**The information below applies to the safety of Keytruda. See full Prescribing Information for detailed safety and dosing guidelines.**
+
+### ADVERSE REACTIONS
+The most common adverse reactions (≥20%) for Keytruda include fatigue, musculoskeletal pain, decreased appetite, pruritus, diarrhea, nausea, rash, pyrexia, cough, dyspnea, and constipation. Serious adverse reactions include immune-mediated pneumonitis, colitis, hepatitis, endocrinopathies, and nephritis.
+
+### DRUG INTERACTIONS
+No formal pharmacokinetic drug interaction studies have been conducted with Keytruda. However, it is essential to consider the potential for interactions with other drugs that affect the immune system.
+
+**Please see accompanying full Prescribing Information for Keytruda for additional information.**
+
+Thank you,
+
+[Variable Rep Name]
+
+[Variable Phone Number]
+
+[Variable Rep Email]
