@@ -3,7 +3,7 @@
 ## Revolutionary Drug Information Delivery, powered by AI
 
 ### High Level Architecture
-![DrugAlertAI Architecture](overall_workflow.png)
+![DrugAlertAI Architecture](DrugAlertAI-Architecture.png)
 
 ### Tools
 - [Streamlit](https://streamlit.io)
@@ -14,4 +14,8 @@
 - [LangGraph](https://www.langchain.com/langgraph)
 - [LangSmith](https://www.langchain.com/langsmith)
 
-![DrugAlertAI Tools](tools_used.png)
+![DrugAlertAI Tools](DrugAlertAI-Tools.png)
+
+### Retrieval Augmented Generation (RAG)
+
+![DrugAlertAI RAG](DrugAlertAI-RAG.png)
