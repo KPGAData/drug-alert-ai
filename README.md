@@ -4,3 +4,6 @@
 
 ### High Level Architecture
 ![DrugAlertAI Architecture](overall_workflow.png)
+
+### Tools
+![DrugAlertAI Tools](tools_used.png)
